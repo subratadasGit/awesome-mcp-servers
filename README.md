@@ -1,95 +1,111 @@
+# ✨ Awesome Model Context Protocol (MCP) Servers  
+> A curated list of awesome MCP servers, frameworks, tools, and resources.
 
-A curated list of awesome Model Context Protocol (MCP) servers.
+---
 
-* [What is MCP?](#what-is-mcp)
-* [Clients](#clients)
-* [Tutorials](#tutorials)
-* [Community](#community)
-* [Legend](#legend)
-* [Server Implementations](#server-implementations)
-* [Frameworks](#frameworks)
-* [Utilities](#utilities)
-* [Tips & Tricks](#tips-and-tricks)
+## 🚀 Table of Contents  
+- [📘 What is MCP?](#what-is-mcp)
+- [🧠 Clients](#clients)
+- [📚 Tutorials](#tutorials)
+- [🌐 Community](#community)
+- [📎 Legend](#legend)
+- [🧩 Server Implementations](#server-implementations)
+- [🛠️ Frameworks](#frameworks)
+- [🧰 Utilities](#utilities)
+- [🧙 Tips & Tricks](#tips--tricks)
 
-## What is MCP?
+---
 
-[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
+## 📘 What is MCP?  
+**[MCP](https://modelcontextprotocol.io/)** (Model Context Protocol) is an open protocol that enables AI models to securely interact with local and remote resources via standardized server implementations.
 
-## Clients
+⚙️ MCP lets AI:
+- Read & write files
+- Access databases
+- Call APIs
+- Automate local tools (like browsers or terminals)
 
-Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
+💡 This repo lists **production-ready** and **experimental** MCP servers that expand AI model capabilities.
 
-> [!TIP]
-> [Glama Chat](https://glama.ai/chat) is a multi-modal AI client with MCP support & [AI gateway](https://glama.ai/gateway).
+---
 
-## Tutorials
+## 🧠 Clients  
+Checkout:
+- 🧾 [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
+- 🌐 [glama.ai/mcp/clients](https://glama.ai/mcp/clients)
 
-* [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
-* [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+> 💬 **TIP:** Try [Glama Chat](https://glama.ai/chat) — a multi-modal AI client with MCP + [AI gateway](https://glama.ai/gateway)
 
-## Community
+---
 
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord Server](https://glama.ai/mcp/discord)
+## 📚 Tutorials  
+- 📘 [Quickstart to MCP](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)  
+- 🎥 [Set Up Claude with SQLite](https://youtu.be/wxCCzo9dGj0)
 
-## Legend
+---
 
-* 🎖️ – official implementation
-* programming language
-  * 🐍 – Python codebase
-  * 📇 – TypeScript codebase
-  * 🏎️ – Go codebase
-  * 🦀 – Rust codebase
-  * #️⃣ - C# Codebase
-  * ☕ - Java codebase
-* scope
-  * ☁️ - Cloud Service
-  * 🏠 - Local Service
-  * 📟 - Embedded Systems
-* operating system
-  * 🍎 – For macOS
-  * 🪟 – For Windows
-  * 🐧 - For Linux
+## 🌐 Community  
+- 🔗 [Reddit: r/mcp](https://www.reddit.com/r/mcp)  
+- 💬 [Discord Server](https://glama.ai/mcp/discord)
 
-> [!NOTE]
-> Confused about Local 🏠 vs Cloud ☁️?
-> * Use local when MCP server is talking to a locally installed software, e.g. taking control over Chrome browser.
-> * Use network when MCP server is talking to remote APIs, e.g. weather API.
+---
 
-## Server Implementations
+## 📎 Legend  
 
-> [!NOTE]
-> We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
+### 🛠️ Programming Language
+- 🐍 Python  📇 TypeScript  🏎️ Go  🦀 Rust  
+- #️⃣ C#  ☕ Java  
 
-* 🔗 - [Aggregators](#aggregators)
-* 🎨 - [Art & Culture](#art-and-culture)
-* 📂 - [Browser Automation](#browser-automation)
-* ☁️ - [Cloud Platforms](#cloud-platforms)
-* 👨‍💻 - [Code Execution](#code-execution)
-* 🤖 - [Coding Agents](#coding-agents)
-* 🖥️ - [Command Line](#command-line)
-* 💬 - [Communication](#communication)
-* 👤 - [Customer Data Platforms](#customer-data-platforms)
-* 🗄️ - [Databases](#databases)
-* 📊 - [Data Platforms](#data-platforms)
-* 🛠️ - [Developer Tools](#developer-tools)
-* 🧮 - [Data Science Tools](#data-science-tools)
-* 📟 - [Embedded system](#embedded-system)
-* 📂 - [File Systems](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
-* 🎮 - [Gaming](#gaming)
-* 🧠 - [Knowledge & Memory](#knowledge--memory)
-* 🗺️ - [Location Services](#location-services)
-* 🎯 - [Marketing](#marketing)
-* 📊 - [Monitoring](#monitoring)
-* 🔎 - [Search & Data Extraction](#search)
-* 🔒 - [Security](#security)
-* 🏃 - [Sports](#sports)
-* 🎧 - [Support & Service Management](#support-and-service-management)
-* 🌎 - [Translation Services](#translation-services)
-* 🚆 - [Travel & Transportation](#travel-and-transportation)
-* 🔄 - [Version Control](#version-control)
-* 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+### 🧭 Scope
+- ☁️ Cloud Service  
+- 🏠 Local Service  
+- 📟 Embedded Systems  
+
+### 💻 Operating System
+- 🍎 macOS  🪟 Windows  🐧 Linux  
+
+> 🏷️ **Legend Example:** `🎖️🐍🏠🐧` means: official, Python, local, Linux
+
+---
+
+## 🧩 Server Implementations  
+
+> 📡 **Now with searchable [web directory](https://glama.ai/mcp/servers)**!
+
+#### 📂 Categories
+- 🔗 [Aggregators](#aggregators)
+- 🎨 [Art & Culture](#art-and-culture)
+- 🌐 [Browser Automation](#browser-automation)
+- ☁️ [Cloud Platforms](#cloud-platforms)
+- 👨‍💻 [Code Execution](#code-execution)
+- 🤖 [Coding Agents](#coding-agents)
+- 🖥️ [Command Line](#command-line)
+- 💬 [Communication](#communication)
+- 👤 [Customer Data Platforms](#customer-data-platforms)
+- 🗄️ [Databases](#databases)
+- 📊 [Data Platforms](#data-platforms)
+- 🛠️ [Developer Tools](#developer-tools)
+- 🧮 [Data Science Tools](#data-science-tools)
+- 📟 [Embedded Systems](#embedded-systems)
+- 🗂️ [File Systems](#file-systems)
+- 💰 [Finance & Fintech](#finance--fintech)
+- 🎮 [Gaming](#gaming)
+- 🧠 [Knowledge & Memory](#knowledge--memory)
+- 🗺️ [Location Services](#location-services)
+- 🎯 [Marketing](#marketing)
+- 📈 [Monitoring](#monitoring)
+- 🔎 [Search & Extraction](#search)
+- 🔒 [Security](#security)
+- 🏃 [Sports](#sports)
+- 🎧 [Support & Service Management](#support-and-service-management)
+- 🌍 [Translation](#translation-services)
+- 🚆 [Travel & Transportation](#travel-and-transportation)
+- 🔄 [Version Control](#version-control)
+- 🧩 [Other Tools](#other-tools-and-integrations)
+
+> ℹ️ **NOTE:**  
+> 🏠 = Local = Talks to software on your machine (e.g. Chrome)  
+> ☁️ = Network = Talks to remote APIs (e.g. weather API)
 
 
 ### 🔗 <a name="aggregators"></a>Aggregators
