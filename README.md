@@ -495,6 +495,8 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) 🐍 ☁️ - SEO & Google Ads skills for Claude Code. Meta tag rewrites, schema markup generation, keyword bid adjustments, and content pushes to WordPress/Strapi/Contentful/Ghost.
+
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
