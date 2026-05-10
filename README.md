@@ -494,6 +494,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) 🎖️ ☁️ - **NotFair** Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negatives, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 
 ### 📊 <a name="monitoring"></a>Monitoring
