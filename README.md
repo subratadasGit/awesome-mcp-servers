@@ -494,6 +494,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [LLM-Pulse/llmpulse-mcp](https://github.com/LLM-Pulse/llmpulse-mcp) 🎖️ 📇 ☁️ - Official LLM Pulse MCP server for AI search visibility analytics, including brand mentions, citations, sentiment, share of voice, recommendations, and AI traffic.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 
 ### 📊 <a name="monitoring"></a>Monitoring
