@@ -151,6 +151,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
 - [pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - An MCP server that enables free web searching using Google search results, with no API keys required.
 - [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) 📇 - Source-available MCP server for authoring, running, and triaging natural-language web and mobile application tests
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
