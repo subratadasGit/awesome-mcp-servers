@@ -495,6 +495,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - Batch-oriented social media publishing and scheduling for AI agents through an API and MCP server. See the [documentation](https://app.bulkpublish.com/docs) and [social-media skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills).
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
